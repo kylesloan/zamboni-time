@@ -1,6 +1,10 @@
 #!/bin/bash
-
 set -e
+
+if [ ! -f "/.dockerenv" ]; then
+  echo "Must be run inside container, see ./docker.sh"
+  exit 1
+fi
 
 BASE_URL="https://anc.apm.activecommunities.com/starcenters/rest/program/__RINKID__/sessions"
 
