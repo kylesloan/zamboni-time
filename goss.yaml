@@ -1,0 +1,6 @@
+package:
+  curl:
+    installed: true
+command:
+  shellcheck *.sh:
+    exit-status: 0

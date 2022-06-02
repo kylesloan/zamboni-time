@@ -1,0 +1,7 @@
+Euless-Dropin 183
+Farmers-Dropin 152
+Frisco-Dropin 160
+Mansfield-Dropin 187
+Mckinney-Dropin 201
+Plano-Dropin 178
+Richardson-Dropin 177

@@ -1,0 +1,6 @@
+Euless-StickPuck 182
+Farmers-StickPuck 155
+Frisco-StickPuck 160
+Mansfield-StickPuck 187
+Plano-StickPuck 193
+Richardson-StickPuck 195
