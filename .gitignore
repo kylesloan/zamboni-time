@@ -1,0 +1,9 @@
+*.tsv
+dropin-tables.html
+sticknpuck-tables.html
+dropin/*
+sticknpuck/*
+html/dropin.html
+html/sticknpuck.html
+
+*.sw[a-z]
